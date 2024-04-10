@@ -1,1 +1,1 @@
-(https://maps.googleapis.com/maps/api/place/details/json?placeid=ChIJcUElzOzMQQwRLuV30nMUEUM&key=YOUR_API_KEY)
+This application requires a google maps api key to work please include in the project for the project to work
